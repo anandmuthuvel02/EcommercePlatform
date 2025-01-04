@@ -1,0 +1,7 @@
+*.html linguist-vendored
+*.css linguist-vendored
+*.js linguist-vendored
+*.gherkin linguist-vendored
+*.xml linguist-vendored
+test-output/ linguist-vendored
+reports/ linguist-vendored
